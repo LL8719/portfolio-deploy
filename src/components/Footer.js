@@ -50,7 +50,9 @@ export const Footer = () => {
 					<textarea value={message} onChange={handleMessageChange} />
 					{!isMessageValid && <span className="required"></span>}
 				</label>
-				<button type="submit">Submit</button>
+				<button className="contact-btn" type="submit">
+					Submit
+				</button>
 			</form>
 
 			<section>

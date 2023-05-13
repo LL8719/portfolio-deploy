@@ -365,6 +365,13 @@ cursor: pointer;
 .contact-form input[type="submit"]:hover {
 background-color: var(--color4);
 }
+
+.contact-btn {
+    width: fit-content;
+    padding: 5px 24px;
+    border-radius: 5px;
+    font-size: 16px;
+}
   
 
 /* Media Queries */
