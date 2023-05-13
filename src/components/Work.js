@@ -6,7 +6,13 @@ const Work = () => {
 			<h2>Work</h2>
 
 			<article class="showcase">
-				<section class="surf-container">
+				<section class="surf-container ">
+					<a
+						class="work-item surf jate"
+						href="https://text-jate007.herokuapp.com//">
+						<></>
+					</a>
+
 					<a
 						class="work-item surf"
 						href="https://ll8719.github.io/project-repo/">
