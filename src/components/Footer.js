@@ -15,7 +15,7 @@ export const Footer = () => {
 
 	const handleEmailChange = (event) => {
 		setEmail(event.target.value);
-		setIsEmailValid(event.target.validity.valid);
+		setIsEmailValid(event.target.value === '' || event.target.validity.valid);
 	};
 
 	const handleMessageChange = (event) => {
@@ -43,9 +43,7 @@ export const Footer = () => {
 				<label>
 					Email:
 					<input type="email" value={email} onChange={handleEmailChange} />
-					{!isEmailValid && (
-						<span className="required">* Invalid email address</span>
-					)}
+					{!isEmailValid && <span className="required"></span>}
 				</label>
 				<label>
 					Message:
