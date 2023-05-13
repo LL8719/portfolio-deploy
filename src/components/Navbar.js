@@ -1,7 +1,17 @@
 import React from 'react';
 import '../styles/style.css';
+import resume from '../assets/resume.pdf';
 // In Navbar, we can assign a style from an object by using curly braces
 function Navbar() {
+	const handleResume = () => {
+		const downloadLink = document.createElement('a');
+
+		downloadLink.href = resume;
+
+		downloadLink.download = 'resume.pdf';
+
+		downloadLink.click();
+	};
 	return (
 		<header>
 			<h1>Luis Lopez</h1>
@@ -9,7 +19,9 @@ function Navbar() {
 				<a href="#about">About</a>
 				<a href="#work">Work</a>
 				<a href="#contact">Contact me</a>
-				<a href="#resume">Resume</a>
+				<a href="#resume" onClick={handleResume}>
+					Resume
+				</a>
 			</nav>
 		</header>
 	);
