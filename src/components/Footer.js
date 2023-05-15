@@ -58,9 +58,9 @@ export const Footer = () => {
 			<section>
 				<aside>
 					<a href="tel: 1520-971-0603">520-971-0603</a>
-					<a href="mailto:luislopez.dev@gmail.com">luislopez.dev@gmail.com</a>
+					<a href="mailto:arsgatslr_87@yahoo.com">arsgatslr_87@yahoo.com</a>
 					<a
-						href="https://github.com/luislopez-dev"
+						href="https://github.com/LL8719"
 						target="_blank"
 						rel="noopener noreferrer">
 						GitHub
