@@ -11,8 +11,9 @@ function Card() {
 			<h2>About Me</h2>
 			<article>
 				<p>
-					Designer and Developer of websites and digital products that are easy
-					to manage and that you and the user will loves.
+					I'm a very ambitious Web developer looking for a role in an
+					established IT company with the opportunity to work with the latest
+					technologies on challenging and diverse projects.
 				</p>
 			</article>
 		</section>
