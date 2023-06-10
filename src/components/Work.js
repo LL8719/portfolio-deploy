@@ -13,9 +13,7 @@ const Work = () => {
 						<></>
 					</a>
 
-					<a
-						class="work-item surf"
-						href="https://ll8719.github.io/project-repo/">
+					<a class="work-item surf" href="https://sharemeal.herokuapp.com/">
 						<></>
 					</a>
 				</section>
