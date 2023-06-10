@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/portfolio-deploy/static/css/main.91319b59.css",
-    "main.js": "/portfolio-deploy/static/js/main.cef63ef9.js",
+    "main.css": "/portfolio-deploy/static/css/main.d5850e80.css",
+    "main.js": "/portfolio-deploy/static/js/main.c8baa93b.js",
     "static/js/787.0c137845.chunk.js": "/portfolio-deploy/static/js/787.0c137845.chunk.js",
     "static/media/me.png": "/portfolio-deploy/static/media/me.603fae0269f8dcfdd647.png",
     "static/media/resume.pdf": "/portfolio-deploy/static/media/resume.7c091c4f5bbe42b057e4.pdf",
+    "static/media/sharemeal.jpg": "/portfolio-deploy/static/media/sharemeal.03a5d741b438d433202d.jpg",
     "static/media/web-3706563_960_720.jpg": "/portfolio-deploy/static/media/web-3706563_960_720.ab1fb917c1bb39240d6f.jpg",
     "static/media/passport.jpg": "/portfolio-deploy/static/media/passport.6278ed37210e1091e53a.jpg",
     "static/media/quiz.png": "/portfolio-deploy/static/media/quiz.1336974b037e118846e9.png",
     "static/media/weather.png": "/portfolio-deploy/static/media/weather.d7b0b45feb4ef8132f5c.png",
     "static/media/jate.jpg": "/portfolio-deploy/static/media/jate.27d4bbe8fc81017b961e.jpg",
-    "static/media/project.png": "/portfolio-deploy/static/media/project.654838d3893f83409175.png",
     "static/media/scheduler.png": "/portfolio-deploy/static/media/scheduler.ac1d9671ca9149dcd77f.png",
     "index.html": "/portfolio-deploy/index.html",
-    "main.91319b59.css.map": "/portfolio-deploy/static/css/main.91319b59.css.map",
-    "main.cef63ef9.js.map": "/portfolio-deploy/static/js/main.cef63ef9.js.map",
+    "main.d5850e80.css.map": "/portfolio-deploy/static/css/main.d5850e80.css.map",
+    "main.c8baa93b.js.map": "/portfolio-deploy/static/js/main.c8baa93b.js.map",
     "787.0c137845.chunk.js.map": "/portfolio-deploy/static/js/787.0c137845.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.91319b59.css",
-    "static/js/main.cef63ef9.js"
+    "static/css/main.d5850e80.css",
+    "static/js/main.c8baa93b.js"
   ]
 }
