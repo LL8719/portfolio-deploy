@@ -8,7 +8,7 @@ function Navbar() {
 
 		downloadLink.href = resume;
 
-		downloadLink.download = 'updatedresume.pdf';
+		downloadLink.download = 'resume1.pdf';
 
 		downloadLink.click();
 	};
